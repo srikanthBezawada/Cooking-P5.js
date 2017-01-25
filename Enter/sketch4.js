@@ -1,3 +1,5 @@
+// Magic circle, call it magic, coldplay
+
 var circleX;
 
 function setup() {

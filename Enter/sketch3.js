@@ -1,3 +1,5 @@
+// A simple paint canvas and mouseclick to erase
+
 function setup() {
 	createCanvas(600, 400);
 	background(250, 250, 100); // Change this background to the starting of the draw() function and see what happens
